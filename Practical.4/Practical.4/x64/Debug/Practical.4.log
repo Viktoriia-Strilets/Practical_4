@@ -1,0 +1,6 @@
+﻿  MyComponent.cpp
+  MyForm.cpp
+  Generating Code...
+C:\study\projects\Practical.4\Practical.4\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyComponent.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Practical.4.vcxproj -> C:\study\projects\Practical.4\x64\Debug\Practical.4.exe

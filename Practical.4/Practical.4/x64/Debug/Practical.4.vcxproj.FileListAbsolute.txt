@@ -1,0 +1,3 @@
+C:\study\projects\Practical.4\Practical.4\x64\Debug\Practical.4.vcxproj.AssemblyReference.cache
+C:\study\projects\Practical.4\Practical.4\x64\Debug\Practical4.MyForm.resources
+C:\study\projects\Practical.4\Practical.4\x64\Debug\Practical.4.vcxproj.GenerateResource.cache
